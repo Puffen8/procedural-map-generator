@@ -8,4 +8,4 @@ Documentation and final features will be added soon.
 Stay tuned!
 
 ## Preview
-![screenshot](res/random_map.png)
+![screenshot](EvolutionEmpires/res/random_map.png)
